@@ -1,0 +1,9 @@
+﻿id,date,meal,comment,category,sentiment,urgent,summary,status,safety_keyword,review_reason
+F02,2026-10-01,Dinner,Found a small insect in the sambar,hygiene,negative,true,Found a small insect in the sambar,classified,insect,
+F07,2026-10-03,Dinner,There was hair in the curd rice,hygiene,negative,true,There was hair in the curd rice,classified,hair,
+F09,2026-10-04,Lunch,Found poochi in my rice,hygiene,negative,true,Found poochi in my rice,classified,poochi,
+F12,2026-10-05,Lunch,The food smelled spoiled,hygiene,negative,true,The food smelled spoiled,classified,spoiled,
+F14,2026-10-06,Breakfast,சாம்பாரில் பூச்சி இருந்தது,hygiene,negative,true,சாம்பாரில் பூச்சி இருந்தது,classified,பூச்சி,
+F17,2026-10-07,Breakfast,I fell sick after breakfast,hygiene,negative,true,I fell sick after breakfast,classified,fell sick,
+F19,2026-10-07,Dinner,Found mudi in the food,hygiene,negative,true,Found mudi in the food,classified,mudi,
+F21,2026-10-08,Lunch,Expired milk packet served,hygiene,negative,true,Expired milk packet served,classified,Expired,

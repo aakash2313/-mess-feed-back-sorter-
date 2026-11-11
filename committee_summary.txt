@@ -1,0 +1,25 @@
+MESS FEEDBACK COMMITTEE SUMMARY
+================================
+Total comments: 24
+Urgent flagged: 8
+Needs manual review: 1
+
+Categories:
+  hygiene: 9
+  other: 6
+  quantity: 2
+  taste: 4
+  timing: 2
+  needs_manual_review: 1
+
+Sentiments:
+  negative: 16
+  neutral: 4
+  positive: 3
+  needs_manual_review: 1
+
+Urgent IDs: F02, F07, F09, F12, F14, F17, F19, F21
+Manual-review IDs: F23
+
+Human review required: automated flags are triage only, not confirmed incidents.
+Keyword matching cannot guarantee detection of all health risks.
